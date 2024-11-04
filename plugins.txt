@@ -1,0 +1,12 @@
+git:latest
+workflow-aggregator:latest
+configuration-as-code:latest
+matrix-auth:latest
+gradle:latest
+pipeline-github-lib:latest
+pipeline-stage-view:latest
+ssh-slaves:latest
+timestamper:latest
+ws-cleanup:latest
+build-timeout:latest
+credentials-binding:latest
